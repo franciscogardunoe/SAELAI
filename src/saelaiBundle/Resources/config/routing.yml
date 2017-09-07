@@ -1,0 +1,3 @@
+saelai_homepage:
+    path:     /
+    defaults: { _controller: saelaiBundle:Default:index }
